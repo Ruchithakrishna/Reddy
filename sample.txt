@@ -1,4 +1,8 @@
 hello
 hiii
 good eveng
+<<<<<<< HEAD
 docker
+=======
+
+>>>>>>> e8834de92cb3bef4e632e839b30a83acc03c75f9
