@@ -1,7 +1,4 @@
-hello
 hiii
-<<<<<<< HEAD
-docker
-=======
-good eveng
->>>>>>> parent of edddce1 (stag commi)
+hello
+hai
+hiiiiiiii
