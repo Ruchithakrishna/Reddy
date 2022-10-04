@@ -1,5 +1,13 @@
-hiii
 hello
+<<<<<<< HEAD
 hai
 hiiiiiiii
 
+=======
+hiii
+<<<<<<< HEAD
+docker
+=======
+good eveng
+>>>>>>> parent of edddce1 (stag commi)
+>>>>>>> parent of 9a8272f (git)
